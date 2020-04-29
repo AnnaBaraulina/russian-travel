@@ -9,6 +9,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-left: 48px;
+  padding-right: 48px;
 
 }
 
@@ -29,8 +31,12 @@
     .footer  {
     max-width: 720px;
     flex-wrap: wrap;
+    padding-left: 24px;
+    padding-right: 24px;
     }
 }
+
+
 
 @media screen and (max-width: 425px) {
     .footer  {
@@ -39,8 +45,8 @@
     flex-direction: column;
     
     align-items: flex-start;
-    margin-left: 16px;
-    margin-right: 118px;
+    padding-left: 16px;
+    padding-right: 118px;
     
     }
 }
