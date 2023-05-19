@@ -1,14 +1,1 @@
-**Путешествия по России**
-
-Данный проект служит отработке и закреплению навыков прошедших трёх спринтов в Яндекс Практикуме. Вёрстка выполнена на языках html и css. Использованы технологии флекс вёрстки, гридов и позиционирования элементов. Применены техники анимации. Проект написан для четырех разрешений экрана, при этом является резиновым и отзывчивым для всех разрешений. Язык наименования блоков и элементов - БЭМ, файлы структурированы по методологии БЭМ Nested.
-
-**В ПРОЕКТЕ ИСПОЛЬЗОВАНЫ ТЕХНОЛОГИИ** 
-
-
-- HTML5
-- CSS3(flexbox + grid)
-- БЭМ
-
-
-**Ссылка на демо версию**
-https://annabaraulina.github.io/russian-travel/
+This project is aimed at practicing and solidifying the skills learned in the past three sprints at Yandex Practicum. The layout is done using HTML and CSS languages. Flexbox, grid, and element positioning techniques were used. Animation techniques were applied as well. The project is designed for four screen resolutions and is both fluid and responsive across all resolutions. The block and element naming follows the BEM methodology, and the files are structured using the BEM Nested methodology.
